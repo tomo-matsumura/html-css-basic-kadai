@@ -1,0 +1,25 @@
+html {
+  font-size: 20px;
+}
+.body {
+  font-family: "Arial", "Meiryo", sans-serif;
+}
+.text-align {
+  text-align: center;
+}
+#decoration {
+  font-family: "Josefin Sans" , sans-serif;
+  letter-spacing: 1.2em;
+  text-shadow: 2px 2px 2px grey;
+  border-bottom: solid 3px rgb(115, 115, 114);
+  font-size: 2rem;
+}
+span1 {
+color: skyblue;
+}
+span2 {
+  color: rgb(255, 192, 203);
+}
+#basic > p {
+  font-weight: bold;
+}
